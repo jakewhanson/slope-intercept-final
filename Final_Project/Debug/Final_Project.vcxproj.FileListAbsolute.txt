@@ -1,2 +1,4 @@
 C:\Users\purpl\Desktop\Programing\VS\Final_Project\Debug\Final_Project.exe
 C:\Users\purpl\Desktop\Programing\VS\Final_Project\Debug\Final_Project.pdb
+H:\FGCU\20-21 Spring Semester\Programing\VS\Final_Project\Debug\Final_Project.exe
+H:\FGCU\20-21 Spring Semester\Programing\VS\Final_Project\Debug\Final_Project.pdb
