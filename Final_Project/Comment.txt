@@ -1,0 +1,9 @@
+
+Thanks Jake, and I'm glad you enjoyed the class, and the Breakout labs.  I will be updating the videos and adding more over the summer.
+
+Excellent job on this program!!!
+
+Only comment is on the Line property constructor, you would want to break that into 2 constructors, one that takes 2 Point class parameters, and one that takes 2 Point class and 1 float for slope.  Reason being that we would most likely only know 2 points or 1 point and a slope at line initialization time, so we'd want different constructors for those two events.
+
+Have a great summer, hope to see you in other classes down the road.
+Paul Allen , May 3 at 7:47pm
